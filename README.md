@@ -22,7 +22,7 @@ Here we follow a "standard" (hypothetical) data-analysis workflow, showing a Nat
 
 https://user-images.githubusercontent.com/916073/212602281-4ebd090f-09c4-495d-b48d-0b4c37b9f665.mp4
 
-Try it out in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/bluecoconut/410a979d94613ea2aaf29987cf0233bc/sketch-demo.ipynb)
+Try it out in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/kjahan/c5b5ae3f92ef246366735355da141fa7/sketch-demo.ipynb)
 
 ## How to use
 
